@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Roy%20Valdo%20Developer&fontSize=40&fontColor=ffffff"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Roy Valdo</h1>
 <h3 align="center">🚀 Fullstack Web Developer | Laravel & Flutter</h3>
 
